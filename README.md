@@ -20,7 +20,7 @@ Restart Eclipse.
 
 6. Update Maven Project : Right click the project and select Maven ⇒ Update Project.
 7. Run Maven Build : Right Click the project and select Run As : Maven Build and add to the goal : clean install
-8. Run Project as Java Application
+8. Run Project as Java Application : MainApp.java
 9. Execute APIs from Postman:
 
 API ENDPOINTS:
